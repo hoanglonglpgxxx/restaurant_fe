@@ -49,8 +49,8 @@ section:nth-child(even) {
 }
 
 .fade-out {
-  top: -110%;
   opacity: 0;
+  visibility: hidden;
 }
 .loader-wrapper {
   position: fixed;
